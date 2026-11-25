@@ -61,9 +61,9 @@ The table below catalogs premier commercial SaaS, managed cloud, and enterprise 
 
 ## 🔓 Open-Source GitHub Projects
 
-The following table lists top open-source physics engines, robotics simulators, and embodied AI frameworks, **sorted in descending order by GitHub Star count**. Each star badge links directly to the stargazer community of that project:
+The following table lists top open-source physics engines, robotics simulators, and embodied AI frameworks, **sorted in descending order by GitHub Stars_Count**. Each Stars_Badge links directly to the stargazer community of that project:
 
-| 🌟 Open-Source Repository | ⭐ GitHub Star Count | 📝 Description & Architectural Highlights |
+| 🌟 Open-Source Repository | ⭐ GitHub Stars_Count | 📝 Description & Architectural Highlights |
 | :--- | :--- | :--- |
 | **[Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world)** | [![Stars](https://img.shields.io/github/stars/Genesis-Embodied-AI/genesis-world?style=social&color=white)](https://github.com/Genesis-Embodied-AI/genesis-world/stargazers) | Next-generation generative physics platform written in pure Python; unifies rigid bodies, MPM, SPH fluids, FEM soft bodies, and differentiable GPU physics. |
 | **[taichi-dev/taichi](https://github.com/taichi-dev/taichi)** | [![Stars](https://img.shields.io/github/stars/taichi-dev/taichi?style=social&color=white)](https://github.com/taichi-dev/taichi/stargazers) | Domain-specific programming language embedded in Python designed for high-performance, GPU-accelerated physical simulations, MPM sand/snow, and fluid solvers. |
@@ -128,8 +128,8 @@ We actively welcome contributions from robotics engineers, game physics develope
    ```
 3. **Add or update an entry** in `README.md` respecting our table format:
    - For SaaS: Platform name, link, company size metrics, starting pricing tier, specific free tier limits, and capability summary.
-   - For Open-Source: Repository name, star badge linked to stargazers, and architectural summary.
-4. **Sort your entry correctly** (SaaS by Company Valuation/Market Cap descending; Open-Source by GitHub Stars descending).
+   - For Open-Source: Repository name, Stars_Badge linked to stargazers, and architectural summary.
+4. **Sort your entry correctly** (SaaS by Company Valuation/Market Cap descending; Open-Source by GitHub_Stars descending).
 5. **Commit your updates**:
    ```bash
    git commit -m "feat: add new physics simulation platform"
